@@ -3,3 +3,5 @@
 Este es un repositorio que ocuparemos de ejemplo durante la sesión de Git
 
 Esta es la primera configuracion a README	
+
+Esta es una linea aniadida en local sin haber sincronizado antes
